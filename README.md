@@ -15,7 +15,7 @@ A Slack-integrated assistant that enables natural language querying of internal 
 
 - "How do I block an IP in AWS WAF?"
 - "Why is the Go audit indexer lagging?"
-- "How do I manually reindex the catalog?"
+- "How do I manually reindex the org?"
 
 ## Architecture Overview
 
